@@ -1,19 +1,18 @@
-# Chirper Project
+# About Project
+Simple twitter clone using React and Redux
+* Timeline
+* Liking Tweets
+* Create tweets
+* Replying tweets
 
-This repo is a code-along with the first project in the React Nanodegree program.
-
-Most of the commits in this repository correspond to videos in the program.
+![](public/Screen Shot 2022-10-17 at 22.08.29.png)
+![](public/Screen Shot 2022-10-17 at 22.08.45.png)
+![](public/Screen Shot 2022-10-17 at 22.09.13.png)
 
 ## Project Setup
 
 - Clone the Project.
 - Install the dependencies: `npm install`
-
-## Contributing
-
-Because this is a code-along project and the commits correspond to specific videos in the program, we will not be accepting pull requests.
-
-If you feel like there's a major problem, please open an issue to discuss the problem and potential resolution.
 
 ## License
 
